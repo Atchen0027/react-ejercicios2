@@ -14,8 +14,6 @@ const htmlFiles = [
     "ejercicio-generador.html",
     "ejercicio-temporizador.html",
     "ejercicio-tareas-localstorage.html",
-
-    // etc.
 ];
 
 export default defineConfig({
