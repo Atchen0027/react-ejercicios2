@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import Busqueda from "./src/Components/Busqueda.jsx";
+import Busqueda from "./Busqueda.jsx";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 

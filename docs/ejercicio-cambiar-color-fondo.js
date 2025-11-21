@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import ListaDinamica from "./src/Components/ListaDinamica.jsx";
+import CambiarColorFondo from "../src/Components/CambiarColorFondo.jsx";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
@@ -8,6 +8,6 @@ root.render(
   React.createElement(
     React.StrictMode,
     null,
-    React.createElement(ListaDinamica)
+    React.createElement(CambiarColorFondo)
   )
 );
