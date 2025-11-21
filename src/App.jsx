@@ -12,37 +12,41 @@ function App() {
       <nav>
         <ul>
           <li>
-            <a href="/ejercicio-calculadora.html">1. Calculadora</a>
+            <a href="./ejercicio-calculadora.html">1. Calculadora</a>
           </li>
           <li>
-            <a href="/ejercicio-contador-clicks.html">2. Contador de Clicks</a>
+            <a href="./ejercicio-contador-clicks.html">2. Contador de Clicks</a>
           </li>
           <li>
-            <a href="/ejercicio-contador-palabras.html">
-              3. Contador de Palabras
+            <a href="./ejercicio-contador-palabras.html">
+              3. Contador de Palabras y Caracteres
             </a>
           </li>
           <li>
-            <a href="/ejercicio-cambiar-color-fondo.html">
-              4. Cambiar Color de Fondo
+            <a href="./ejercicio-cambiar-color-fondo.html">
+              4. Cambiador de Color de Fondo
             </a>
           </li>
           <li>
-            <a href="/ejercicio-busqueda.html">5. Búsqueda</a>
+            <a href="./ejercicio-busqueda.html">5. Búsqueda en Tiempo Real</a>
           </li>
           <li>
-            <a href="/ejercicio-lista-dinamica.html">6. Lista Dinámica</a>
+            <a href="./ejercicio-lista-dinamica.html">
+              6. Lista Dinámica (Agregar/Eliminar)
+            </a>
           </li>
           <li>
-            <a href="/ejercicio-generador.html">7. Generador</a>
+            <a href="./ejercicio-generador.html">7. Generador de Contraseñas</a>
           </li>
           <li>
-            <a href="/ejercicio-tareas-localstorage.html">
+            <a href="./ejercicio-tareas-localstorage.html">
               8. Lista de Tareas (LocalStorage)
             </a>
           </li>
           <li>
-            <a href="/ejercicio-temporizador.html">9. Temporizador</a>
+            <a href="./ejercicio-temporizador.html">
+              9. Temporizador/Cronómetro
+            </a>
           </li>
         </ul>
       </nav>
