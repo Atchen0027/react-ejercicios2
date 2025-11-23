@@ -15,16 +15,24 @@ function Calculadora() {
 
   const handleSumar = () => {
     setResultado(valor1 + valor2);
+    setValor1("");
+    setValor2("");
   };
   const handleRestar = () => {
     setResultado(valor1 - valor2);
+    setValor1("");
+    setValor2("");
   };
   const handleMultiplicar = () => {
     setResultado(valor1 * valor2);
+    setValor1("");
+    setValor2("");
   };
   const handleDividir = () => {
     if (valor2 !== 0) {
       setResultado(valor1 / valor2);
+      setValor1("");
+      setValor2("");
     } else {
       setResultado("Error: Division por cero");
     }
