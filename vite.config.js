@@ -17,8 +17,12 @@ const htmlFiles = [
 ];
 
 export default defineConfig({
-    plugins: [react()],
-    base: "/accen-ejercicios-react/",
+  // ¡AJUSTA LA BASE A TU NUEVO REPOSITORIO!
+  base: '/react-ejercicios2/', 
+
+  plugins: [react()],
+  // ... (resto de tu configuración)
+});
 
     // === PARTE CLAVE: Configuración de Múltiples Páginas (MPA) ===
     build: {
