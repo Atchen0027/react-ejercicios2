@@ -30,6 +30,11 @@ function Busqueda() {
     "Maracuyá",
     "Carambola",
     "Granada",
+    "Mora",
+    "Coco",
+    "Mangostino",
+    "Mangue",
+    ""
   ];
   const [busqueda, setBusqueda] = React.useState("");
 
